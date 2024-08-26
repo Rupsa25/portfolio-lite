@@ -76,21 +76,6 @@ const expData = [
         id: 4,
         category: 'experience',
         icon: 'icon-briefcase',
-        year: '2022 - 2022',
-        title: 'Research Assitant, Rutgers University',
-        desc: (
-            <span>
-                Implemented and replicated state-of-the-art Active Learning models for object detection on a custom dataset,
-                resulting in a 59.83% reduction in labeling costs for object detection datasets.
-                Achieved a MAP score of 28.6% on the second cycle, by mapping the dataset to meet model requirements and
-                retraining the models to compare the performance of the novel pipeline against the baseline. Stack:PyTorch,Linux.
-            </span>
-        )
-    },
-    {
-        id: 5,
-        category: 'experience',
-        icon: 'icon-briefcase',
         year: '2020 - 2021',
         title: 'Data Engineer, Phenom People',
         desc: (
@@ -102,7 +87,7 @@ const expData = [
         ),
     },
     {
-        id: 6,
+        id: 5,
         category: 'experience',
         icon: 'icon-briefcase',
         year: ' 2019-2020',
