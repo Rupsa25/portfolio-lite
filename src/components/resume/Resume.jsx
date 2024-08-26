@@ -62,7 +62,7 @@ const expData = [
         category: 'experience',
         icon: 'icon-briefcase',
         year: '2022 - 2022',
-        title: 'Research Assitant, Rutgers University',
+        title: 'Research Assistant, Rutgers University',
         desc: (
             <span>
                 Implemented and replicated state-of-the-art Active Learning models for object detection on a custom dataset,
